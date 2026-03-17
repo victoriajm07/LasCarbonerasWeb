@@ -71,13 +71,13 @@ const PROGRAMA = {
     {
       fecha: 'SÁBADO 27 DE JUNIO',
       eventos: [
-        { hora: '22.00', titulo: 'Exhibición pirotécnica', desc: 'Por HERMANOS TOSTES. A continuación, gran verbena por las orquestas ACAPULCO y MALIBÚ BAND.' }
+        { hora: '22.00', titulo: 'Exhibición pirotécnica', desc: 'Por HERMANOS TOSTE. A continuación, gran verbena por las orquestas ACAPULCO y MALIBÚ BAND.' }
       ]
     },
     {
       fecha: 'DOMINGO 28 DE JUNIO',
       eventos: [
-        { hora: '14.00', titulo: 'XCVI Paseo Romero' },
+        { hora: '14.00', titulo: 'XCVI Romería' },
         { hora: '16.00', titulo: 'Verbena', desc: 'Amenizada por LOS KDTES y Orquesta REVELACIÓN.' }
       ]
     },

@@ -71,7 +71,7 @@ const PROGRAMA = {
     {
       fecha: 'SÁBADO 27 DE JUNIO',
       eventos: [
-        { hora: '22.00', titulo: 'Exhibición pirotécnica', desc: 'Por HERMANOS TOSTES. Luego, gran verbena por las orquestas ACAPULCO y MALIBÚ BAND.' }
+        { hora: '22.00', titulo: 'Exhibición pirotécnica', desc: 'Por HERMANOS TOSTES. A continuación, gran verbena por las orquestas ACAPULCO y MALIBÚ BAND.' }
       ]
     },
     {

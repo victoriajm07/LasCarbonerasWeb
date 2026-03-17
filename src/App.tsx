@@ -516,7 +516,7 @@ export default function App() {
                   <Users className="text-blue-700 shrink-0 mt-1" size={28} />
                   <div className="text-blue-900 text-lg">
                     <p className="font-bold mb-1">¿Necesitas ayuda con la inscripción?</p>
-                    <p>Si eres una persona mayor y no sabes cómo inscribirte por la web, por favor <strong>contacta con nosotras</strong> directamente en el pueblo o a través de los miembros de la comisión. ¡Estaremos encantadas de ayudarte!</p>
+                    <p>Si no sabes cómo inscribirte por la web, por favor <strong>contacta con nosotras</strong> directamente en el pueblo o a través de los miembros de la comisión. ¡Estaremos encantadas de ayudarte!</p>
                   </div>
                 </Card>
               </div>

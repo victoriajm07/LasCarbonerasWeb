@@ -53,7 +53,7 @@ export const TabCamisetas = () => {
               </div>
               <div className="flex justify-between items-center py-3 border-b border-stone-100">
                 <span className="font-bold text-stone-600 uppercase tracking-wider text-sm">Tallas Disponibles</span>
-                <span className="text-lg font-medium text-stone-900">S, M, L, XL, XXL</span>
+                <span className="text-lg font-medium text-stone-900">12-14, Xs, S, M, L, XL, XXL</span>
               </div>
               <div className="flex justify-between items-center py-3 border-b border-stone-100">
                 <span className="font-bold text-stone-600 uppercase tracking-wider text-sm">Color</span>

@@ -5,9 +5,9 @@ export const Hero = () => (
   <header className="relative h-[70vh] flex items-center justify-center overflow-hidden">
     <div className="absolute inset-0 z-0">
       <img 
-        src="https://picsum.photos/seed/village/1920/1080" 
+        src="https://res.cloudinary.com/danlaueus/image/upload/v1774201446/las_carboneras_gyhyfw.webp" 
         alt="Las Carboneras" 
-        className="w-full h-full object-cover opacity-40 grayscale"
+        className="w-full h-full object-cover opacity-120 grayscale"
         referrerPolicy="no-referrer"
       />
       <div className="absolute inset-0 bg-gradient-to-b from-[#f5f5f0]/20 to-[#f5f5f0]" />

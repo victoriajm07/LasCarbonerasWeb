@@ -34,14 +34,14 @@ export const PROGRAMA = {
       fecha: 'DOMINGO 28 DE JUNIO',
       eventos: [
         { hora: '14.00', titulo: 'XCVI Romería' },
-        { hora: '16.00', titulo: 'Verbena', desc: 'Amenizada por LOS KDTES y Orquesta REVELACIÓN.' }
+        { hora: '16.00', titulo: 'Verbena', desc: 'Amenizada por LOS KDTS y Orquesta REVELACIÓN.' }
       ]
     },
     {
       fecha: 'SÁBADO 4 DE JULIO',
       eventos: [
-        { hora: '12.00', titulo: 'Partido de fútbol femenino', desc: 'CARBONERAS vs ROQUE NEGRO' },
-        { hora: '13.00', titulo: 'Partido de fútbol masculino', desc: 'SOLTEROS vs CASADOS' },
+        { hora: '12.00', titulo: 'Encuentro de fútbol femenino', desc: 'CARBONERAS vs ROQUE NEGRO' },
+        { hora: '13.00', titulo: 'Encuentro de fútbol masculino', desc: 'SOLTEROS vs CASADOS' },
         { hora: '14.00', titulo: 'Paella en la plaza', desc: 'Para los asistentes.' },
         { hora: '15.00', titulo: 'Día del niño', desc: 'Diferentes actividades.' },
         { hora: '18.00', titulo: '1ª edición de “Tu hocico me suena”', desc: 'Participación de personas del pueblo.' },

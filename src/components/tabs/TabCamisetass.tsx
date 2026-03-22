@@ -57,7 +57,7 @@ export const TabCamisetas = () => {
               </div>
               <div className="flex justify-between items-center py-3 border-b border-stone-100">
                 <span className="font-bold text-stone-600 uppercase tracking-wider text-sm">Color</span>
-                <span className="text-lg font-medium text-stone-900">Blanco / Negro</span>
+                <span className="text-lg font-medium text-stone-900">Blanco </span>
               </div>
             </div>
           </div>

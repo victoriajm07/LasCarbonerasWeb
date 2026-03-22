@@ -5,7 +5,7 @@ import { cn } from '../lib/utils';
 
 interface NavbarProps {
   activeTab: 'programa' | 'balcones' | 'hocico';
-  setActiveTab: (tab: 'programa' | 'balcones' | 'hocico') => void;
+  setActiveTab: (tab: 'programa' | 'balcones' | 'hocico' | 'camisetas') => void;
 }
 
 export const Navbar = ({ activeTab, setActiveTab }: NavbarProps) => {
@@ -15,6 +15,7 @@ export const Navbar = ({ activeTab, setActiveTab }: NavbarProps) => {
     { id: 'programa', label: 'Programa' },
     { id: 'balcones', label: 'Concurso Balcones' },
     { id: 'hocico', label: 'Tu Hocico me Suena' },
+    { id: 'camisetas', label: 'Camisetas' }
   ] as const;
 
   return (

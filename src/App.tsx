@@ -10,6 +10,7 @@ import { Footer } from './components/Footer';
 import { TabPrograma } from './components/tabs/TabPrograma';
 import { TabBalcones } from './components/tabs/TabBalcones';
 import { TabHocico } from './components/tabs/TabHocico';
+import { TabCamisetas } from './components/tabs/TabCamisetass';
 
 export default function App() {
   const [loading, setLoading] = useState(true);
@@ -41,6 +42,7 @@ export default function App() {
         {activeTab === 'programa' && <TabPrograma />}
         {activeTab === 'balcones' && <TabBalcones />}
         {activeTab === 'hocico' && <TabHocico />}
+        {activeTab === 'camisetas' && <TabCamisetas />}
       </main>
 
       <Footer />

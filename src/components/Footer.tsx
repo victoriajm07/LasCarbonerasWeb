@@ -16,7 +16,7 @@ export const Footer = () => (
       <div className="flex justify-center gap-8 pt-8 border-t border-white/10">
         <div className="text-left">
           <span className="block text-xs uppercase tracking-widest text-stone-400 mb-1 font-bold">Contacto</span>
-          <p className="text-lg">comision@lascarboneras.es</p>
+          <p className="text-lg">fiestaslascarbo@gmail.com</p>
         </div>
         <div className="text-left">
           <span className="block text-xs uppercase tracking-widest text-stone-400 mb-1 font-bold">Ubicación</span>

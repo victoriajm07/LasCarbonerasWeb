@@ -53,7 +53,7 @@ export const TabCamisetas = () => {
               </div>
               <div className="flex justify-between items-center py-3 border-b border-stone-100">
                 <span className="font-bold text-stone-600 uppercase tracking-wider text-sm">Tallas Disponibles</span>
-                <span className="text-lg font-medium text-stone-900">12-14, Xs, S, M, L, XL, XXL</span>
+                <span className="text-lg font-medium text-stone-900">12-14, XS, S, M, L, XL, XXL</span>
               </div>
               <div className="flex justify-between items-center py-3 border-b border-stone-100">
                 <span className="font-bold text-stone-600 uppercase tracking-wider text-sm">Color</span>
@@ -65,7 +65,7 @@ export const TabCamisetas = () => {
           <div>
             <h4 className="font-bold text-stone-900 mb-4">Vías de contacto:</h4>
             <div className="space-y-3">
-              <a className="flex items-center gap-3 w-full bg-stone-100 hover:bg-stone-200 transition-colors text-stone-800 py-3 px-4 rounded-xl font-medium">
+              <a className="flex items-center gap-3 w-full bg-stone-100 text-stone-800 py-3 px-4 rounded-xl font-medium">
                 <Mail size={20} className="text-stone-500 shrink-0" />
                 <span className="truncate"> fiestaslascarbo@gmail.com</span>
               </a>
